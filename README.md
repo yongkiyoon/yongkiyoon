@@ -13,7 +13,7 @@ LaTeX
 Korean(Native), English(Fluent), Spanish(Un poquito)
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yongkiyoon.github.io/)](https://yongkiyoon.github.io)
+[![Site Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yongkiyoon.github.io/)](https://yongkiyoon.github.io)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arrow.economist@gmail.com)](mailto:yyoon@albany.edu)
 
 <!--
