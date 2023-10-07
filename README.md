@@ -13,7 +13,6 @@ Estimation of the Special Day Effect in Korea’s City Gas Demand using C-LASSO 
 Dexterous: Matlab, R  
 Mid-level: Python  
 Learning: C, C++, Julia  
-LaTeX
 
 ### Languages
 Korean(Native), English(Fluent), Spanish(Elementary)
