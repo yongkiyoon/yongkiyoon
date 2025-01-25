@@ -7,7 +7,7 @@ Main Interest: Econometrics, Applied Econometrics
 Estimation of the Special Day Effect in Korea’s City Gas Demand using C-LASSO (with Choi, Yongok.) (in Korean), *Korean Energy Economic Review*. 2022
 
 ### Work in Progress
-
+Covariate Selection for the Synthetic Control Method (with Park, Byoung.) 
 
 ### Skills
 Dexterous: Matlab, R  
