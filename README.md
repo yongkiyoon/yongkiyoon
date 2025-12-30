@@ -11,8 +11,8 @@ Covariate Selection for the Synthetic Control Method (with Park, Byoung.)
 
 ### Skills
 Dexterous: Matlab, R  
-Mid-level: Python  
-Learning: C, C++, Julia  
+Mid-level: Python, STATA
+Learning: C, Fortran 
 
 ### Languages
 Korean(Native), English(Fluent), Spanish(Elementary)
