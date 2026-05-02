@@ -1,7 +1,7 @@
 # Yongki Yoon.
 Ph.D. student in economics.  
 Location: Albany, NY.  
-Main Interest: Econometrics, Applied Econometrics
+Main Interest: Econometrics
 
 ### Publications
 Estimation of the Special Day Effect in Korea’s City Gas Demand using C-LASSO (with Choi, Yongok.) (in Korean), *Korean Energy Economic Review*. 2022
@@ -11,8 +11,8 @@ Covariate Selection for the Synthetic Control Method (with Park, Byoung.)
 
 ### Skills
 Dexterous: Matlab, R  
-Mid-level: Python, STATA
-Learning: C, Fortran 
+Mid-level: Python, STATA, SAS
+Learning: Fortran 
 
 ### Languages
 Korean(Native), English(Fluent), Spanish(Elementary)
